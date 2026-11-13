@@ -4,5 +4,5 @@
 /**
  * 
  */
-module parte2 {
+module treino {
 }
